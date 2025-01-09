@@ -49,7 +49,7 @@ Routine care is essential for keeping your pond in top condition. Develop a main
     Trimming dead leaves or overgrown plants.
     Checking and adjusting water levels to compensate for evaporation.
 
-Tools and accessories like those available from {Pond Haven}[https://pondhaven.com/] can make regular maintenance tasks easier and more effective.
+Tools and accessories like those available from [Pond Haven]{https://pondhaven.com/} can make regular maintenance tasks easier and more effective.
 8. Test Water Quality Frequently
 
 Monitoring water quality ensures that your pond’s ecosystem remains balanced. Test kits are widely available and can measure pH, ammonia, nitrite, and nitrate levels.
